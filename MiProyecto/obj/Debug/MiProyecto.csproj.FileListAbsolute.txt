@@ -1,0 +1,27 @@
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe.config
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\bin\Debug\MiProyecto.pdb
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.Login.resources
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.csproj.GenerateResource.Cache
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
+C:\Users\Strix\Documents\SharpDevelop Projects\MiProyecto\MiProyecto\obj\Debug\MiProyecto.MainForm.resources
+G:\miProyecto\MiProyecto\bin\Debug\MiProyecto.exe.config
+G:\miProyecto\MiProyecto\bin\Debug\MiProyecto.exe
+G:\miProyecto\MiProyecto\bin\Debug\MiProyecto.pdb
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.csprojResolveAssemblyReference.cache
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.Login.resources
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.MainForm.resources
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.csproj.GenerateResource.Cache
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.exe
+G:\miProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.csprojResolveAssemblyReference.cache
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.Login.resources
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.MainForm.resources
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.csproj.GenerateResource.Cache
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.exe
+F:\miProyecto\MiProyecto\obj\Debug\MiProyecto.pdb
+F:\miProyecto\MiProyecto\bin\Debug\MiProyecto.exe.config
+F:\miProyecto\MiProyecto\bin\Debug\MiProyecto.exe
+F:\miProyecto\MiProyecto\bin\Debug\MiProyecto.pdb

@@ -1,0 +1,25 @@
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe.config
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.pdb
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csprojResolveAssemblyReference.cache
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.MainForm.resources
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csproj.GenerateResource.Cache
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.exe
+C:\Users\Strix\Documents\SharpDevelop Projects\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.pdb
+F:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe.config
+F:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe
+F:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.pdb
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csprojResolveAssemblyReference.cache
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.MainForm.resources
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csproj.GenerateResource.Cache
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.exe
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.pdb
+G:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe.config
+G:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.exe
+G:\Proyecto_CRUD\Proyecto_CRUD\bin\Debug\Proyecto_CRUD.pdb
+G:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csprojResolveAssemblyReference.cache
+G:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.MainForm.resources
+G:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.csproj.GenerateResource.Cache
+G:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.exe
+G:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.pdb
+F:\Proyecto_CRUD\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.Login.resources

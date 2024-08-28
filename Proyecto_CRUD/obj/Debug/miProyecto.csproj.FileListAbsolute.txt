@@ -1,0 +1,9 @@
+F:\miProyecto\Proyecto_CRUD\bin\Debug\miProyecto.exe.config
+F:\miProyecto\Proyecto_CRUD\bin\Debug\miProyecto.exe
+F:\miProyecto\Proyecto_CRUD\bin\Debug\miProyecto.pdb
+F:\miProyecto\Proyecto_CRUD\obj\Debug\miProyecto.csprojResolveAssemblyReference.cache
+F:\miProyecto\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.Login.resources
+F:\miProyecto\Proyecto_CRUD\obj\Debug\Proyecto_CRUD.MainForm.resources
+F:\miProyecto\Proyecto_CRUD\obj\Debug\miProyecto.csproj.GenerateResource.Cache
+F:\miProyecto\Proyecto_CRUD\obj\Debug\miProyecto.exe
+F:\miProyecto\Proyecto_CRUD\obj\Debug\miProyecto.pdb
